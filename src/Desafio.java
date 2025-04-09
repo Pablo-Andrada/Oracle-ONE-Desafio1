@@ -14,7 +14,7 @@ public class Desafio {
         System.out.println("\n********************************************");
 
         String menu = """
-                ***Escriba el número de la operación deseada:***
+                ***Escriba el número de la operación deseada :***
                 1 - Consultar saldo
                 2 - Retirar dinero
                 3 - Depositar dinero
